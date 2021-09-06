@@ -39,11 +39,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kiiyas/007_regex-nicknames.git"
+    "url": "git+https://github.com/kiiyas/008-containers-set.git"
   },
   "bugs": {
-    "url": "https://github.com/kiiyas/007_regex-nicknames/issues"
+    "url": "https://github.com/kiiyas/008-containers-set/issues"
   },
-  "homepage": "https://github.com/kiiyas/007_regex-nicknames#readme",
+  "homepage": "https://github.com/kiiyas/008-containers-set#readme",
   "description": ""
 }
